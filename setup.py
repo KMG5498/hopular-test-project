@@ -1,7 +1,6 @@
 import setuptools
 
-with open(r'README.md', mode=r'r') as readme_handle:
-    long_description = readme_handle.read()
+
 
 setuptools.setup(
     name=r'hopular',
